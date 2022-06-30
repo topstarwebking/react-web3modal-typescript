@@ -1,324 +1,47 @@
-Contribution: 2019-08-09 20:00
+# Getting Started with Create React App
 
-Contribution: 2019-08-09 20:01
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-Contribution: 2019-08-09 20:02
+## Available Scripts
 
-Contribution: 2019-08-09 20:03
+In the project directory, you can run:
 
-Contribution: 2019-08-09 20:04
+### `yarn start`
 
-Contribution: 2019-08-09 20:05
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Contribution: 2019-08-10 20:00
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
 
-Contribution: 2019-08-10 20:01
+### `yarn test`
 
-Contribution: 2019-08-10 20:02
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-Contribution: 2019-08-10 20:03
+### `yarn build`
 
-Contribution: 2019-08-10 20:04
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-Contribution: 2019-08-10 20:05
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-Contribution: 2019-08-10 20:06
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-Contribution: 2019-08-10 20:07
+### `yarn eject`
 
-Contribution: 2019-08-10 20:08
+**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
 
-Contribution: 2019-08-10 20:09
+If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Contribution: 2019-08-10 20:10
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
 
-Contribution: 2019-08-10 20:11
+You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
 
-Contribution: 2019-08-10 20:12
+## Learn More
 
-Contribution: 2019-08-13 20:00
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-Contribution: 2019-08-13 20:01
-
-Contribution: 2019-08-13 20:02
-
-Contribution: 2019-08-13 20:03
-
-Contribution: 2019-08-13 20:04
-
-Contribution: 2019-08-13 20:05
-
-Contribution: 2019-08-14 20:00
-
-Contribution: 2019-08-14 20:01
-
-Contribution: 2019-08-14 20:02
-
-Contribution: 2019-08-14 20:03
-
-Contribution: 2019-08-14 20:04
-
-Contribution: 2019-08-14 20:05
-
-Contribution: 2019-08-14 20:06
-
-Contribution: 2019-08-14 20:07
-
-Contribution: 2019-08-16 20:00
-
-Contribution: 2019-08-16 20:01
-
-Contribution: 2019-08-16 20:02
-
-Contribution: 2019-08-16 20:03
-
-Contribution: 2019-08-16 20:04
-
-Contribution: 2019-08-17 20:00
-
-Contribution: 2019-08-17 20:01
-
-Contribution: 2019-08-17 20:02
-
-Contribution: 2019-08-17 20:03
-
-Contribution: 2019-08-17 20:04
-
-Contribution: 2019-08-17 20:05
-
-Contribution: 2019-08-17 20:06
-
-Contribution: 2019-08-17 20:07
-
-Contribution: 2019-08-17 20:08
-
-Contribution: 2019-08-17 20:09
-
-Contribution: 2019-08-18 20:00
-
-Contribution: 2019-08-18 20:01
-
-Contribution: 2019-08-18 20:02
-
-Contribution: 2019-08-18 20:03
-
-Contribution: 2019-08-19 20:00
-
-Contribution: 2019-08-19 20:01
-
-Contribution: 2019-08-19 20:02
-
-Contribution: 2019-08-19 20:03
-
-Contribution: 2019-08-19 20:04
-
-Contribution: 2019-08-19 20:05
-
-Contribution: 2019-08-19 20:06
-
-Contribution: 2019-08-19 20:07
-
-Contribution: 2019-08-19 20:08
-
-Contribution: 2019-08-19 20:09
-
-Contribution: 2019-08-19 20:10
-
-Contribution: 2019-08-21 20:00
-
-Contribution: 2019-08-21 20:01
-
-Contribution: 2019-08-21 20:02
-
-Contribution: 2019-08-21 20:03
-
-Contribution: 2019-08-21 20:04
-
-Contribution: 2019-08-21 20:05
-
-Contribution: 2019-08-21 20:06
-
-Contribution: 2019-08-21 20:07
-
-Contribution: 2019-08-21 20:08
-
-Contribution: 2019-08-21 20:09
-
-Contribution: 2019-08-21 20:10
-
-Contribution: 2019-08-21 20:11
-
-Contribution: 2019-08-21 20:12
-
-Contribution: 2019-08-21 20:13
-
-Contribution: 2019-08-21 20:14
-
-Contribution: 2019-08-21 20:15
-
-Contribution: 2019-08-21 20:16
-
-Contribution: 2019-08-21 20:17
-
-Contribution: 2019-08-23 20:00
-
-Contribution: 2019-08-23 20:01
-
-Contribution: 2019-08-23 20:02
-
-Contribution: 2019-08-23 20:03
-
-Contribution: 2019-08-23 20:04
-
-Contribution: 2019-08-23 20:05
-
-Contribution: 2019-08-23 20:06
-
-Contribution: 2019-08-23 20:07
-
-Contribution: 2019-08-23 20:08
-
-Contribution: 2019-08-23 20:09
-
-Contribution: 2019-08-23 20:10
-
-Contribution: 2019-08-23 20:11
-
-Contribution: 2019-08-23 20:12
-
-Contribution: 2019-08-23 20:13
-
-Contribution: 2019-08-23 20:14
-
-Contribution: 2019-08-24 20:00
-
-Contribution: 2019-08-24 20:01
-
-Contribution: 2019-08-24 20:02
-
-Contribution: 2019-08-24 20:03
-
-Contribution: 2019-08-24 20:04
-
-Contribution: 2019-08-24 20:05
-
-Contribution: 2019-08-24 20:06
-
-Contribution: 2019-08-24 20:07
-
-Contribution: 2019-08-24 20:08
-
-Contribution: 2019-08-24 20:09
-
-Contribution: 2019-08-25 20:00
-
-Contribution: 2019-08-25 20:01
-
-Contribution: 2019-08-25 20:02
-
-Contribution: 2019-08-28 20:00
-
-Contribution: 2019-08-28 20:01
-
-Contribution: 2019-08-28 20:02
-
-Contribution: 2019-08-28 20:03
-
-Contribution: 2019-08-28 20:04
-
-Contribution: 2019-08-28 20:05
-
-Contribution: 2019-08-28 20:06
-
-Contribution: 2019-08-29 20:00
-
-Contribution: 2019-08-29 20:01
-
-Contribution: 2019-08-29 20:02
-
-Contribution: 2019-08-29 20:03
-
-Contribution: 2019-08-29 20:04
-
-Contribution: 2019-08-29 20:05
-
-Contribution: 2019-08-29 20:06
-
-Contribution: 2019-08-29 20:07
-
-Contribution: 2019-08-29 20:08
-
-Contribution: 2019-08-29 20:09
-
-Contribution: 2019-08-29 20:10
-
-Contribution: 2019-08-30 20:00
-
-Contribution: 2019-08-30 20:01
-
-Contribution: 2019-08-30 20:02
-
-Contribution: 2019-08-30 20:03
-
-Contribution: 2019-08-30 20:04
-
-Contribution: 2019-08-30 20:05
-
-Contribution: 2019-08-30 20:06
-
-Contribution: 2019-08-30 20:07
-
-Contribution: 2019-08-30 20:08
-
-Contribution: 2019-08-30 20:09
-
-Contribution: 2019-08-30 20:10
-
-Contribution: 2019-08-30 20:11
-
-Contribution: 2019-08-30 20:12
-
-Contribution: 2019-08-30 20:13
-
-Contribution: 2019-08-30 20:14
-
-Contribution: 2019-08-30 20:15
-
-Contribution: 2019-08-30 20:16
-
-Contribution: 2019-08-30 20:17
-
-Contribution: 2019-08-30 20:18
-
-Contribution: 2019-08-31 20:00
-
-Contribution: 2019-08-31 20:01
-
-Contribution: 2019-08-31 20:02
-
-Contribution: 2019-08-31 20:03
-
-Contribution: 2019-08-31 20:04
-
-Contribution: 2019-08-31 20:05
-
-Contribution: 2019-09-01 20:00
-
-Contribution: 2019-09-01 20:01
-
-Contribution: 2019-09-01 20:02
-
-Contribution: 2019-09-01 20:03
-
-Contribution: 2019-09-01 20:04
-
-Contribution: 2019-09-01 20:05
-
-Contribution: 2019-09-01 20:06
-
-Contribution: 2019-09-01 20:07
-
-Contribution: 2019-09-01 20:08
-
-Contribution: 2019-09-01 20:09
-
+To learn React, check out the [React documentation](https://reactjs.org/).
+# react-usedapp-web3modal-typescript
